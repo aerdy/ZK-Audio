@@ -1,0 +1,11 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Hello World!!" border="normal" width="200px">
+
+<!-- kita akan membuat audio -->
+<audio src="/media/a.mp3" />
+
+<!-- kita hanya membutuhkan sebuah lagi dan masukkan alamat lagu nya.. -->
+<!-- kita tidak membutuhkan media lain  hanya ada file itu sudah dapat di lakukan... -->
+<!-- seperti dalam html5 kita tinggal memasukkan alamat/// -->
+
+</window>

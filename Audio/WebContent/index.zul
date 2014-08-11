@@ -1,0 +1,6 @@
+<?page title="Auto Generated index.zul"?>
+<window title="Hello World!!" border="normal" width="100%">
+<audio src="/audio/a.mp3"/>
+
+<fisheyebar><fisheye image=""/><fisheye image=""/></fisheyebar>
+</window>
